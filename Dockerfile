@@ -1,8 +1,8 @@
-# DOCKER-VERSION 0.5.3
+# DOCKER-VERSION 0.7.1
 
 FROM ubuntu:12.04
 
-MAINTAINER Jim Rosser "jarosser06@tamu.edu"
+MAINTAINER Jim Rosser "jarosser06@gmail.com"
 
 RUN apt-get -y update
 RUN apt-get -y install curl
